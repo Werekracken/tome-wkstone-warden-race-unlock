@@ -14,6 +14,8 @@ As a side effect, if you play with multiple addons you should now see all of the
 (Without this addon they are excluded if the class has not_on_random_boss set to true.)
 
 This addon overloads the adventurer and wilder classes, and superloads the WandererSeed mod dialog.
+
+https://github.com/Werekracken/tome-wkstone-warden-race-unlock
 ----
 Changelog
 - v1.0.0 Initial release

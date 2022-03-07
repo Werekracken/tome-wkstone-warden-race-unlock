@@ -16,6 +16,10 @@ As a side effect, if you play with multiple addons you should now see all of the
 
 This addon overloads the adventurer and wilder classes, and superloads the WandererSeed mod dialog.
 
+[Download](https://te4.org/games/addons/tome/wkstone-warden-race-unlock)
+
+[Forum](https://forums.te4.org/viewtopic.php?f=50&t=53298)
+
 ## Changelog
 
 - v1.0.0 Initial release
