@@ -105,16 +105,6 @@ function _M:makeWanderer()
 	actor.randventurer_seed = seed.."-"..addons_md5
 
 	rng.seed(os.time())
-
-	-- Give the starting trees
-	actor:randventurerLearn("class", true)
-	actor:randventurerLearn("class", true)
-	actor:randventurerLearn("class", true)
-	actor:randventurerLearn("generic", true)
-
-	self.finish()
-
-	return retval
 end
 
 return _M
